@@ -1,8 +1,5 @@
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=likizao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/likizao)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=likizao&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=Likizao)](https://github.com/likizao) [![Github visitors](https://img.shields.io/github/followers/likizao?label=Seguir&style=social)](https://github.com/likizao)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likizao22@gmail.com)](mailto:likizao22@gmail.com)
-[![Github visitors](https://img.shields.io/github/followers/likizao?label=Seguir&style=social)](https://github.com/likizao)
-
-👉 <a href="https://discordapp.com/channels/@me/211587715467182080/"> Likizão#4542 </a> <br>
 
