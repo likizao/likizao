@@ -1,9 +1,13 @@
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=likizao&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=Likizao)](https://github.com/likizao)
-<br>
+<p align="right"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode"></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=likizao&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=Likizao">
+</p>
+
+
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-- 👨‍💻 Back-end.
-- 👨‍🎓 Sistemas de Informação - FIAP.
+- 👨‍💻 **Back-end**
+- 👨‍🎓 **Sistemas de Informação** - *FIAP*
 
 
 <p align="center">
