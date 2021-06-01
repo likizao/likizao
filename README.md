@@ -35,6 +35,6 @@
       <img src="https://img.shields.io/discord/701967992832917505?color=7289da&label=Universe%20FiveM&logo=discord&logoColor=ffffff&style=plastic">
     </a>
     <a href="mailto:likizao22@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=mailto:likizao22@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&style=plastic&link=mailto:contato@likizao.dev">
     </a>
 </p>
